@@ -8,6 +8,7 @@ Olá! 👋
 - Apaixonado por tecnologia e novos desafios! :sparkles:
 
 Tecnologias que domino:
+
 (Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDb | Git | GitHub | Postman)
 
 📫 Contato
