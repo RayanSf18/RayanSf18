@@ -1,21 +1,21 @@
-<h1>Hi There! 👋</h1>
+# Hi There! 👋
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 📘 Currently focused on dev back end with Java Spring
-- I love exploring the latest trends and facing new challenges. Every line of code is an opportunity to learn something new.
-- Study at Anhanguera University, applying knowledge to create innovative solutions.
-- Passionate about technology and new challenges! :sparkles:
+- 📘 Currently focused on backend development with Java Spring.
+- 💡 I love exploring the latest trends and facing new challenges. Every line of code is an opportunity to learn something new.
+- 🎓 Study at Anhanguera University, applying knowledge to create innovative solutions.
+- ✨ Passionate about technology and embracing new challenges!
 
-Technologies I master:
+## Technologies I Master
 
-(Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDb | Git | GitHub | Postman)
+[Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDB | Git | GitHub | Postman]
 
-📫 Contact
+## 📫 Contact
 
-Follow me on social media:
+Connect with me on social media:
 
 - Email: rayansf18@example.com
-- LinkedIn: @RayanSilva
+- LinkedIn: [@RayanSilva](https://www.linkedin.com/in/rayansilva/)
 
-I am always looking for new challenges and learning new technologies. :nerd_face:
+Always open to new challenges and eager to learn new technologies. :nerd_face:
