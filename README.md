@@ -9,13 +9,13 @@
 
 <strong>Technologies I Master</strong>
 
-[Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDB | Git | GitHub | Postman]
+`(Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDB | Git | GitHub | Postman)`
 
 <strong>📫 Contact</strong>
 
 Connect with me on social media:
 
-- Email: rayansf18@example.com
-- LinkedIn: [@RayanSilva](https://www.linkedin.com/in/rayansilva/)
+- Email: `rayansf18@example.com`
+- LinkedIn: [`@RayanSilva`](https://www.linkedin.com/in/rayansilva/)
 
 Always open to new challenges and eager to learn new technologies. :nerd_face:
