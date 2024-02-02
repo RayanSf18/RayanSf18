@@ -1,21 +1,21 @@
-Olá! 👋
+Hi There! 👋
 
-👨‍💻 Sobre Mim
+👨‍💻 About Me
 
-- 📘 Atualmente, focado em dev back end com Java Spring
-- Adoro explorar as últimas tendências e enfrentar novos desafios. Cada linha de código é uma oportunidade para aprender algo novo.
-- Estudo na Universidade Anhanguera, aplicando conhecimentos para criar soluções inovadoras.
-- Apaixonado por tecnologia e novos desafios! :sparkles:
+- 📘 Currently focused on dev back end with Java Spring
+- I love exploring the latest trends and facing new challenges. Every line of code is an opportunity to learn something new.
+- Study at Anhanguera University, applying knowledge to create innovative solutions.
+- Passionate about technology and new challenges! :sparkles:
 
-Tecnologias que domino:
+Technologies I master:
 
 (Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDb | Git | GitHub | Postman)
 
-📫 Contato
+📫 Contact
 
-Me acompanhe nas redes sociais:
+Follow me on social media:
 
 - Email: rayansf18@example.com
-- LinkedIn: Rayan Silva
+- LinkedIn: @RayanSilva
 
-Estou sempre buscando novos desafios e aprendendo novas tecnologias. :nerd_face:
+I am always looking for new challenges and learning new technologies. :nerd_face:
