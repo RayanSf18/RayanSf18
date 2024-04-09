@@ -9,7 +9,7 @@
 
 <strong>Technologies I Master</strong>
 
-`(Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDB | Git | GitHub | Postman)`
+`(Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDB | Git | GitHub | Postman | Flyway)`
 
 <strong>📫 Contact</strong>
 
