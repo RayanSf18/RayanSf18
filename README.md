@@ -1,21 +1,23 @@
 # Hi There! 👋
 
-<strong>👨‍💻 About Me</strong>
+**👨‍💻 About Me**
 
 - 📘 Currently focused on backend development with Java Spring.
 - 💡 I love exploring the latest trends and facing new challenges. Every line of code is an opportunity to learn something new.
 - 🎓 Study at Anhanguera University, applying knowledge to create innovative solutions.
 - ✨ Passionate about technology and embracing new challenges!
 
-<strong>Technologies I Master</strong>
+**Technologies I Master**
 
-`(Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDB | Git | GitHub | Postman | Flyway)`
+```
+(Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDB | Git | GitHub | Postman | Flyway, Docker)
+```
 
-<strong>📫 Contact</strong>
+**📫 Contact**
 
 Connect with me on social media:
 
-- Email: `rayansf18@example.com`
-- LinkedIn: [`@RayanSilva`](https://www.linkedin.com/in/rayansilva/)
+- Email: `rayansf18@gmail.com`
+- LinkedIn: [`@Rayan Silva`](https://www.linkedin.com/in/rayan-silva-7025271a7/)
 
 Always open to new challenges and eager to learn new technologies. :nerd_face:
