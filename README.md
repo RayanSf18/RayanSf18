@@ -9,11 +9,9 @@
 
 **Technologies I Master**
 
-```
 
+`Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDB | Git | GitHub | Postman | Flyway, Docker`
 
-Java | Spring Boot | JPA | Hibernate | MySQL | PostgreSQL | MongoDB | Git | GitHub | Postman | Flyway, Docker
-```
 
 **📫 Contact**
 
